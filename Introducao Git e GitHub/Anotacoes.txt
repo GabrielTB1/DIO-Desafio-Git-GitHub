@@ -1,0 +1,6 @@
+Link download Git: https://git-scm.com/download
+
+Git é um controlador de versionamento utilizado para controle e manutenção de versões de código entre repositórios.
+
+GitBash é o terminal otimizado para comandos Git.
+
